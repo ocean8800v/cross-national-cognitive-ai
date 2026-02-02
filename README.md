@@ -40,9 +40,8 @@ Typical install time: ~5–10 minutes.
 
 ## Model weights
 
-- [default_tabpfn-v2-classifier_weights.ckpt](https://drive.google.com/file/d/1L_TbN2Du7ZOjNm1VXz_rxOELgFHWey30/view?usp=drive_link) – [Prior-Labs/TabPFN](https://github.com/PriorLabs/TabPFN) (accessed 9 July 2025)  
-- [fine-tuned_tabpfn-v2-classifier_weights.ckpt](https://drive.google.com/file/d/1wnFKigC27-mqgNPAI23Rq94RGuG5o6fx/view?usp=drive_link) – fine-tuned weights generated in this study    
-
+- [default_tabpfn-v2-classifier_weights.ckpt](https://drive.google.com/file/d/1L_TbN2Du7ZOjNm1VXz_rxOELgFHWey30/view?usp=drive_link) – [Prior-Labs/TabPFN](https://github.com/PriorLabs/TabPFN) (accessed 9 July 2025), subject to the [Prior Labs License](https://github.com/PriorLabs/TabPFN/blob/main/LICENSE).
+- [fine-tuned_tabpfn-v2-classifier_weights.ckpt](https://drive.google.com/file/d/1wnFKigC27-mqgNPAI23Rq94RGuG5o6fx/view?usp=drive_link) – fine-tuned weights generated in this study (derived from TabPFN).   
 
 ## Fine-tuning experiments
 
